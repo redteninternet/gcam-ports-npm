@@ -1,0 +1,14 @@
+cat > .npmignore << EOF
+tests/
+coverage/
+.github/
+examples/
+.eslintrc.js
+jest.config.js
+.gitignore
+*.test.js
+*.spec.js
+.env
+.DS_Store
+*.log
+EOF

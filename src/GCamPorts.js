@@ -31,6 +31,9 @@ class GCamPorts {
    * @returns {Array} List of devices for the brand
    */
   getDevicesByBrand(brand) {
+    if (!brand || typeof brand !== "string") {
+      return [];
+    }
     const normalizedBrand = brand.toLowerCase();
     return devices[normalizedBrand] || [];
   }
@@ -41,6 +44,9 @@ class GCamPorts {
    * @returns {string|null} Download URL or null if brand not found
    */
   getDownloadUrl(brand) {
+    if (!brand || typeof brand !== "string") {
+      return null;
+    }
     const normalizedBrand = brand.toLowerCase();
     return brands[normalizedBrand]?.url || null;
   }
@@ -51,6 +57,10 @@ class GCamPorts {
    * @returns {Array} Array of matching devices
    */
   searchDevices(query) {
+    if (!query || typeof query !== "string" || query.trim() === "") {
+      return [];
+    }
+
     const results = [];
     const searchTerm = query.toLowerCase();
 
@@ -77,6 +87,9 @@ class GCamPorts {
    * @returns {Object|null} Brand information or null if not found
    */
   getBrandInfo(brand) {
+    if (!brand || typeof brand !== "string") {
+      return null;
+    }
     const normalizedBrand = brand.toLowerCase();
     return brands[normalizedBrand] || null;
   }
@@ -87,6 +100,9 @@ class GCamPorts {
    * @returns {boolean} True if brand is supported
    */
   isBrandSupported(brand) {
+    if (!brand || typeof brand !== "string") {
+      return false;
+    }
     const normalizedBrand = brand.toLowerCase();
     return !!brands[normalizedBrand];
   }
@@ -97,6 +113,9 @@ class GCamPorts {
    * @returns {number} Number of supported devices
    */
   getDeviceCount(brand) {
+    if (!brand || typeof brand !== "string") {
+      return 0;
+    }
     const normalizedBrand = brand.toLowerCase();
     return devices[normalizedBrand]?.length || 0;
   }
