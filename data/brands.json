@@ -1,0 +1,102 @@
+{
+  "samsung": {
+    "name": "Samsung",
+    "url": "https://gcam-ports.com/download-gcam-apk-for-samsung-devices/",
+    "description": "GCam ports for Samsung Galaxy devices including S-series, Note, A-series, and more",
+    "processor_types": ["Exynos", "Snapdragon"],
+    "popular_series": [
+      "Galaxy S",
+      "Galaxy Note",
+      "Galaxy A",
+      "Galaxy M",
+      "Galaxy F"
+    ]
+  },
+  "oneplus": {
+    "name": "OnePlus",
+    "url": "https://gcam-ports.com/download-gcam-ports-for-oneplus-phones/",
+    "description": "GCam ports for OnePlus devices including flagship and Nord series",
+    "processor_types": ["Snapdragon"],
+    "popular_series": ["OnePlus", "OnePlus Nord", "OnePlus Ace"]
+  },
+  "realme": {
+    "name": "Realme",
+    "url": "https://gcam-ports.com/download-gcam-ports-for-realme-devices/",
+    "description": "GCam ports for Realme smartphones across all price segments",
+    "processor_types": ["MediaTek", "Snapdragon"],
+    "popular_series": ["Realme GT", "Realme", "Realme C", "Realme Narzo"]
+  },
+  "xiaomi": {
+    "name": "Xiaomi/Redmi/POCO",
+    "url": "https://gcam-ports.com/download-gcam-for-xiaomi-redmi-poco-devices/",
+    "description": "GCam ports for Xiaomi, Redmi, and POCO devices with MIUI",
+    "processor_types": ["Snapdragon", "MediaTek"],
+    "popular_series": ["Mi", "Redmi", "POCO", "Redmi Note"]
+  },
+  "vivo": {
+    "name": "Vivo",
+    "url": "https://gcam-ports.com/download-google-camera-port-for-vivo-phones/",
+    "description": "GCam ports for Vivo smartphones with Funtouch OS",
+    "processor_types": ["Snapdragon", "MediaTek", "Exynos"],
+    "popular_series": ["Vivo V", "Vivo Y", "Vivo X", "Vivo S"]
+  },
+  "oppo": {
+    "name": "OPPO",
+    "url": "https://gcam-ports.com/download-gcam-port-apk-for-oppo-phones/",
+    "description": "GCam ports for OPPO devices with ColorOS",
+    "processor_types": ["Snapdragon", "MediaTek"],
+    "popular_series": ["OPPO Find", "OPPO Reno", "OPPO A", "OPPO F"]
+  },
+  "motorola": {
+    "name": "Motorola",
+    "url": "https://gcam-ports.com/download-gcam-ports-for-motorola-phones/",
+    "description": "GCam ports for Motorola devices including Moto G, Edge, and One series",
+    "processor_types": ["Snapdragon", "MediaTek"],
+    "popular_series": ["Moto G", "Moto Edge", "Moto One", "Moto E"]
+  },
+  "nothing": {
+    "name": "Nothing",
+    "url": "https://gcam-ports.com/download-gcam-ports-for-nothing-phones/",
+    "description": "GCam ports for Nothing Phone devices with Nothing OS",
+    "processor_types": ["Snapdragon"],
+    "popular_series": ["Nothing Phone"]
+  },
+  "infinix": {
+    "name": "Infinix",
+    "url": "https://gcam-ports.com/download-gcam-port-apk-for-infinix-devices/",
+    "description": "GCam ports for Infinix smartphones with XOS",
+    "processor_types": ["MediaTek", "UNISOC"],
+    "popular_series": [
+      "Infinix Note",
+      "Infinix Hot",
+      "Infinix Zero",
+      "Infinix Smart"
+    ]
+  },
+  "tecno": {
+    "name": "Tecno",
+    "url": "https://gcam-ports.com/download-gcam-ports-for-tecno-phones/",
+    "description": "GCam ports for Tecno devices with HiOS",
+    "processor_types": ["MediaTek", "UNISOC"],
+    "popular_series": [
+      "Tecno Camon",
+      "Tecno Spark",
+      "Tecno Phantom",
+      "Tecno Pova"
+    ]
+  },
+  "asus": {
+    "name": "ASUS",
+    "url": "https://gcam-ports.com/download-google-camera-port-for-asus-phones/",
+    "description": "GCam ports for ASUS ROG and ZenFone series",
+    "processor_types": ["Snapdragon", "MediaTek"],
+    "popular_series": ["ASUS ROG Phone", "ASUS ZenFone"]
+  },
+  "honor": {
+    "name": "Honor",
+    "url": "https://gcam-ports.com/download-gcam-ports-apk-for-honor-phones/",
+    "description": "GCam ports for Honor devices with Magic UI",
+    "processor_types": ["Snapdragon", "MediaTek", "Kirin"],
+    "popular_series": ["Honor", "Honor Magic", "Honor X", "Honor Play"]
+  }
+}

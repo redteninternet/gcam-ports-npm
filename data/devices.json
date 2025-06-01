@@ -1,0 +1,258 @@
+{
+  "samsung": [
+    {
+      "name": "Samsung Galaxy S25 Ultra",
+      "model": "SM-S938U",
+      "url": "https://gcam-ports.com/samsung/samsung-galaxy-s25-ultra-google-camera/",
+      "processor": "Snapdragon",
+      "android_version": "15",
+      "release_year": 2025
+    },
+    {
+      "name": "Samsung Galaxy S25 Plus",
+      "model": "SM-S936U",
+      "url": "https://gcam-ports.com/samsung/samsung-galaxy-s25-google-camera/",
+      "processor": "Snapdragon",
+      "android_version": "15",
+      "release_year": 2025
+    },
+    {
+      "name": "Samsung Galaxy S25",
+      "model": "SM-S931U",
+      "url": "https://gcam-ports.com/samsung/samsung-galaxy-s25-google-camera-2/",
+      "processor": "Snapdragon",
+      "android_version": "15",
+      "release_year": 2025
+    },
+    {
+      "name": "Samsung Galaxy A56",
+      "model": "SM-A566B",
+      "url": "https://gcam-ports.com/samsung/samsung-galaxy-a56-google-camera/",
+      "processor": "Exynos",
+      "android_version": "15",
+      "release_year": 2025
+    }
+  ],
+  "oneplus": [
+    {
+      "name": "OnePlus 13",
+      "model": "CPH2609",
+      "url": "https://gcam-ports.com/oneplus/oneplus-13-google-camera/",
+      "processor": "Snapdragon 8 Elite",
+      "android_version": "15",
+      "release_year": 2024
+    },
+    {
+      "name": "OnePlus 13R",
+      "model": "CPH2645",
+      "url": "https://gcam-ports.com/oneplus/oneplus-13r-google-camera/",
+      "processor": "Snapdragon 8 Gen 3",
+      "android_version": "15",
+      "release_year": 2025
+    },
+    {
+      "name": "OnePlus 12",
+      "model": "CPH2573",
+      "url": "https://gcam-ports.com/oneplus/oneplus-12-google-camera/",
+      "processor": "Snapdragon 8 Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "OnePlus Nord 4",
+      "model": "CPH2613",
+      "url": "https://gcam-ports.com/oneplus/oneplus-nord-4-google-camera/",
+      "processor": "Snapdragon 7+ Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "xiaomi": [
+    {
+      "name": "Xiaomi 15 Pro",
+      "model": "2411DRK48C",
+      "url": "https://gcam-ports.com/xiaomi/xiaomi-15-pro-google-camera/",
+      "processor": "Snapdragon 8 Elite",
+      "android_version": "15",
+      "release_year": 2024
+    },
+    {
+      "name": "Redmi Note 14 Pro",
+      "model": "24090RA98C",
+      "url": "https://gcam-ports.com/xiaomi/redmi-note-14-pro-google-camera/",
+      "processor": "MediaTek Dimensity",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "POCO F6 Pro",
+      "model": "23113RKC6G",
+      "url": "https://gcam-ports.com/xiaomi/poco-f6-pro-google-camera/",
+      "processor": "Snapdragon 8 Gen 2",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "realme": [
+    {
+      "name": "Realme GT 7 Pro",
+      "model": "RMX5020",
+      "url": "https://gcam-ports.com/realme/realme-gt-7-pro-google-camera/",
+      "processor": "Snapdragon 8 Elite",
+      "android_version": "15",
+      "release_year": 2024
+    },
+    {
+      "name": "Realme 13 Pro Plus",
+      "model": "RMX3031",
+      "url": "https://gcam-ports.com/realme/realme-13-pro-plus-google-camera/",
+      "processor": "Snapdragon 7s Gen 2",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "vivo": [
+    {
+      "name": "Vivo X200 Pro",
+      "model": "V2403A",
+      "url": "https://gcam-ports.com/vivo/vivo-x200-pro-google-camera/",
+      "processor": "MediaTek Dimensity 9400",
+      "android_version": "15",
+      "release_year": 2024
+    },
+    {
+      "name": "Vivo V40 Pro",
+      "model": "V2318",
+      "url": "https://gcam-ports.com/vivo/vivo-v40-pro-google-camera/",
+      "processor": "MediaTek Dimensity 9200+",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "oppo": [
+    {
+      "name": "OPPO Find X8 Pro",
+      "model": "CPH2651",
+      "url": "https://gcam-ports.com/oppo/oppo-find-x8-pro-google-camera/",
+      "processor": "MediaTek Dimensity 9400",
+      "android_version": "15",
+      "release_year": 2024
+    },
+    {
+      "name": "OPPO Reno 12 Pro",
+      "model": "CPH2603",
+      "url": "https://gcam-ports.com/oppo/oppo-reno-12-pro-google-camera/",
+      "processor": "MediaTek Dimensity 7300",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "motorola": [
+    {
+      "name": "Motorola Edge 50 Ultra",
+      "model": "XT2405-1",
+      "url": "https://gcam-ports.com/motorola/motorola-edge-50-ultra-google-camera/",
+      "processor": "Snapdragon 8s Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "Motorola Moto G85",
+      "model": "XT2347-2",
+      "url": "https://gcam-ports.com/motorola/motorola-moto-g85-google-camera/",
+      "processor": "Snapdragon 6s Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "nothing": [
+    {
+      "name": "Nothing Phone (2a) Plus",
+      "model": "A142P",
+      "url": "https://gcam-ports.com/nothing/nothing-phone-2a-plus-google-camera/",
+      "processor": "MediaTek Dimensity 7350 Pro",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "Nothing Phone (2a)",
+      "model": "A142",
+      "url": "https://gcam-ports.com/nothing/nothing-phone-2a-google-camera/",
+      "processor": "MediaTek Dimensity 7200 Pro",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "infinix": [
+    {
+      "name": "Infinix Zero 40 5G",
+      "model": "X6875",
+      "url": "https://gcam-ports.com/infinix/infinix-zero-40-5g-google-camera/",
+      "processor": "MediaTek Dimensity 8200 Ultimate",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "Infinix Hot 50 Pro Plus",
+      "model": "X6871",
+      "url": "https://gcam-ports.com/infinix/infinix-hot-50-pro-plus-google-camera/",
+      "processor": "MediaTek Helio G100",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "tecno": [
+    {
+      "name": "Tecno Phantom V Fold 2",
+      "model": "AD10",
+      "url": "https://gcam-ports.com/tecno/tecno-phantom-v-fold-2-google-camera/",
+      "processor": "MediaTek Dimensity 9000+",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "Tecno Camon 30 Pro",
+      "model": "CL6",
+      "url": "https://gcam-ports.com/tecno/tecno-camon-30-pro-google-camera/",
+      "processor": "MediaTek Dimensity 8050",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "asus": [
+    {
+      "name": "ASUS ROG Phone 8 Pro",
+      "model": "AI2401",
+      "url": "https://gcam-ports.com/asus/asus-rog-phone-8-pro-google-camera/",
+      "processor": "Snapdragon 8 Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    },
+    {
+      "name": "ASUS ZenFone 11 Ultra",
+      "model": "AI2401",
+      "url": "https://gcam-ports.com/asus/asus-zenfone-11-ultra-google-camera/",
+      "processor": "Snapdragon 8 Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ],
+  "honor": [
+    {
+      "name": "Honor Magic7 Pro",
+      "model": "PGT-AN10",
+      "url": "https://gcam-ports.com/honor/honor-magic7-pro-google-camera/",
+      "processor": "Snapdragon 8 Elite",
+      "android_version": "15",
+      "release_year": 2024
+    },
+    {
+      "name": "Honor 200 Pro",
+      "model": "LNE-NX9",
+      "url": "https://gcam-ports.com/honor/honor-200-pro-google-camera/",
+      "processor": "Snapdragon 8s Gen 3",
+      "android_version": "14",
+      "release_year": 2024
+    }
+  ]
+}
