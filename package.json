@@ -1,6 +1,6 @@
 {
   "name": "gcam-ports",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A comprehensive npm package providing easy access to Google Camera (GCam) ports for various Android device brands",
   "main": "index.js",
   "scripts": {
