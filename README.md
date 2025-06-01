@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gcam-ports.svg)](https://www.npmjs.com/package/gcam-ports)
 [![npm downloads](https://img.shields.io/npm/dt/gcam-ports.svg)](https://www.npmjs.com/package/gcam-ports)
-[![license](https://img.shields.io/npm/l/gcam-ports.svg)](https://github.com/gcam-ports/gcam-ports-npm/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/gcam-ports.svg)](https://github.com/redteninternet/gcam-ports-npm/blob/main/LICENSE)
 
 A comprehensive Node.js package providing easy access to Google Camera (GCam) ports for various Android device brands. This package serves as a programmatic interface to the extensive GCam ports database available at [gcam-ports.com](https://gcam-ports.com).
 
@@ -303,7 +303,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### Development Setup
 
 ```bash
-git clone https://github.com/gcam-ports/gcam-ports-npm.git
+git clone https://github.com/redteninternet/gcam-ports-npm.git
 cd gcam-ports-npm
 npm install
 npm test
@@ -316,15 +316,15 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🌐 Related Links
 
 - **Website**: [gcam-ports.com](https://gcam-ports.com) - The official GCam ports repository
-- **GitHub**: [gcam-ports-npm](https://github.com/gcam-ports/gcam-ports-npm)
+- **GitHub**: [gcam-ports-npm](https://github.com/redteninternet/gcam-ports-npm)
 - **NPM**: [gcam-ports](https://www.npmjs.com/package/gcam-ports)
-- **Issues**: [Report bugs or request features](https://github.com/gcam-ports/gcam-ports-npm/issues)
+- **Issues**: [Report bugs or request features](https://github.com/redteninternet/gcam-ports-npm/issues)
 
 ## 💝 Support
 
 If this package helps your project, please consider:
 
-- ⭐ Starring the [GitHub repository](https://github.com/gcam-ports/gcam-ports-npm)
+- ⭐ Starring the [GitHub repository](https://github.com/redteninternet/gcam-ports-npm)
 - 🐛 Reporting bugs or suggesting features
 - 📢 Sharing with other developers
 - 💰 Supporting the [gcam-ports.com](https://gcam-ports.com) project
